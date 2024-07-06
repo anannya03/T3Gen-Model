@@ -1,2 +1,2 @@
 # T3Gen-Model
-Text-ToTestcase generation using CodeLlama and LoRA
+Text-to-Testcase generation using CodeLlama and LoRA
